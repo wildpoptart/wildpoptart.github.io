@@ -399,6 +399,16 @@ AddStyle(/*css*/`
     .thoughts-content-area em {
         color: rgb(211, 120, 54);
     }
+
+    .thoughts-content-area a {
+        color: rgb(211, 120, 54);
+        text-decoration: none;
+    }
+
+    .thoughts-content-area a:hover {
+        color: #e0e0e0;
+        text-decoration: underline;
+    }
 `);
 
 export default class InfoContent extends HTMLElement{
@@ -697,7 +707,7 @@ export default class InfoContent extends HTMLElement{
 
         const loadContent = async (fileName) => {
             try {
-                const response = await fetch(`./assets/data/projects/${fileName}`);
+                const response = await fetch(`./assets/data/mds/${fileName}`);
                 const markdownContent = await response.text();
                 contentArea.innerHTML = parseMarkdown(markdownContent);
             } catch (error) {
