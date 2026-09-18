@@ -1,3 +1,3 @@
 # Solar Energy Sim
 
-[windows-wallpaper](https://stanborsh.xyz/windows-wallpaper/)
+[windows-wallpaper](https://stanborsh.xyz/windowsWallpaper)
