@@ -1,6 +1,10 @@
 [
      {
           "title": "Solar Energy Sim",
-          "file": "projects.md"
+          "file": "solar-energy.md"
+     },
+     {
+          "title": "Windows Wallpaper Multi-Montior",
+          "file":"windows-wallpaper.md"
      }
 ]
