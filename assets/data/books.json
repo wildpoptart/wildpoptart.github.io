@@ -1,5 +1,11 @@
 [
     {
+        "title": "Burning Chrome",
+        "author": "William Gibson",
+        "rating": 4,
+        "thumbnail": "./assets/static/img/books/burning_chrome.webp"
+    },
+{
         "title": "Neuromancer",
         "author": "William Gibson",
         "rating": 4,
