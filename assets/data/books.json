@@ -1,5 +1,11 @@
 [
     {
+        "title": "Neuromancer",
+        "author": "William Gibson",
+        "rating": 4,
+        "thumbnail": "./assets/static/img/books/neuromancer.webp"
+    },
+{
         "title": "The Count of Monte Cristo",
         "author": "Alexandre Dumas",
         "rating": 4.5,
