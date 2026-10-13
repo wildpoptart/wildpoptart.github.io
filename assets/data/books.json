@@ -1,5 +1,11 @@
 [
     {
+        "title": "The Count of Monte Cristo",
+        "author": "Alexandre Dumas",
+        "rating": 4.5,
+        "thumbnail": "./assets/static/img/books/the_count_of_monte_cristo.webp"
+    },
+{
         "title": "Washington: A Life",
         "author": "Ron Chernow",
         "rating": 5,
