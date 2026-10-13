@@ -1,5 +1,10 @@
 [
     {
+        "title": "Sunshine (2007)",
+        "rating": 4,
+        "thumbnail": "./assets/static/img/movies/sunshine.webp"
+    },
+{
         "title": "Project Hail Mary",
         "rating": 5,
         "thumbnail": "./assets/static/img/movies/Project_Hail_Mary.webp"
