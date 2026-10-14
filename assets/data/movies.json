@@ -1,5 +1,10 @@
 [
     {
+        "title": "Indiana Jones and the Last Crusade (1989)",
+        "rating": 2.5,
+        "thumbnail": "./assets/static/img/movies/indiana_jones_and_the_last_crusade.webp"
+    },
+{
         "title": "Wanted (2008)",
         "rating": 3.5,
         "thumbnail": "./assets/static/img/movies/wanted.webp"
