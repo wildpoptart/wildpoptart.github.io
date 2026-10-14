@@ -1,5 +1,10 @@
 [
     {
+        "title": "Wanted (2008)",
+        "rating": 3.5,
+        "thumbnail": "./assets/static/img/movies/wanted.webp"
+    },
+{
         "title": "Sunshine (2007)",
         "rating": 4,
         "thumbnail": "./assets/static/img/movies/sunshine.webp"
