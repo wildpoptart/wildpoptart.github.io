@@ -1,5 +1,10 @@
 [
     {
+        "title": "Street Fighter (2026)",
+        "rating": 4,
+        "thumbnail": "./assets/static/img/movies/street_fighter.webp"
+    },
+{
         "title": "Starship Troopers (1997)",
         "rating": 4,
         "thumbnail": "./assets/static/img/movies/starship_troopers.webp"
