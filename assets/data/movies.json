@@ -1,5 +1,10 @@
 [
     {
+        "title": "Dogma (1999)",
+        "rating": 3,
+        "thumbnail": "./assets/static/img/movies/dogma.webp"
+    },
+{
         "title": "The Gorge (2025)",
         "rating": 3,
         "thumbnail": "./assets/static/img/movies/the_gorge.webp"
