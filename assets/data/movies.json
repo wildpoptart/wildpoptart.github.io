@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Gorge (2025)",
+        "rating": 3,
+        "thumbnail": "./assets/static/img/movies/the_gorge.webp"
+    },
+{
         "title": "Street Fighter (2026)",
         "rating": 4,
         "thumbnail": "./assets/static/img/movies/street_fighter.webp"
