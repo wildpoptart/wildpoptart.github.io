@@ -1,5 +1,10 @@
 [
     {
+        "title": "Equilibrium (2002)",
+        "rating": 3.5,
+        "thumbnail": "./assets/static/img/movies/equilibrium.webp"
+    },
+{
         "title": "The Thing (1982)",
         "rating": 5,
         "thumbnail": "./assets/static/img/movies/the_thing.webp"
