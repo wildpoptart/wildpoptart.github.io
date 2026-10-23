@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Thing (1982)",
+        "rating": 5,
+        "thumbnail": "./assets/static/img/movies/the_thing.webp"
+    },
+{
         "title": "RoboCop (1987)",
         "rating": 4,
         "thumbnail": "./assets/static/img/movies/robocop.webp"
