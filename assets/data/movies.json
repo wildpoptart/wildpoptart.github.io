@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Fifth Element (1997)",
+        "rating": 3.5,
+        "thumbnail": "./assets/static/img/movies/the_fifth_element.webp"
+    },
+{
         "title": "Dogma (1999)",
         "rating": 3,
         "thumbnail": "./assets/static/img/movies/dogma.webp"
