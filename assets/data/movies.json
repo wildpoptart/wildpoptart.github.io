@@ -1,5 +1,10 @@
 [
     {
+        "title": "RoboCop (1987)",
+        "rating": 4,
+        "thumbnail": "./assets/static/img/movies/robocop.webp"
+    },
+{
         "title": "The Fifth Element (1997)",
         "rating": 3.5,
         "thumbnail": "./assets/static/img/movies/the_fifth_element.webp"
