@@ -1,5 +1,10 @@
 [
     {
+        "title": "The Island (2005)",
+        "rating": 3,
+        "thumbnail": "./assets/static/img/movies/the_island.webp"
+    },
+{
         "title": "Equilibrium (2002)",
         "rating": 3.5,
         "thumbnail": "./assets/static/img/movies/equilibrium.webp"
